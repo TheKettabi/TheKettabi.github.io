@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Taoufik Boucetta",
+    "subtitle": "Full Stack Developer",
+    "description": "Building robust web solutions with modern technologies",
+    "cta": {
+      "contact": "Contact Me",
+      "download": "Download CV"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "summary": "I am a freelance Full Stack Developer based in Beni Mellal, Morocco, passionate about crafting efficient web solutions.",
+    "background": {
+      "title": "Background",
+      "training": "Full Stack Development training ",
+      "degree": "Economics and Management degree",
+      "bac": "Physics Science Baccalaureate"
+    },
+    "softSkills": {
+      "title": "Soft Skills",
+      "teamSpirit": "Team Spirit",
+      "adaptability": "Adaptability",
+      "timeManagement": "Time Management"
+    }
+  }
+}

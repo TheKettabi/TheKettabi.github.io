@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Taoufik Boucetta",
+    "subtitle": "Développeur Full Stack",
+    "description": "Création de solutions web robustes avec des technologies modernes",
+    "cta": {
+      "contact": "Me Contacter",
+      "download": "Télécharger CV"
+    }
+  },
+  "about": {
+    "title": "À Propos de Moi",
+    "summary": "Développeur web enthousiaste actuellement en formation bootcamp à Enaa. Motivé pour appliquer mes connaissances et apprendre rapidement.",
+    "background": {
+      "title": "Formation",
+      "training": "Formation Développement Full Stack (2024)",
+      "degree": "Diplôme en Économie et Gestion",
+      "bac": "Baccalauréat en Sciences Physiques"
+    },
+    "softSkills": {
+      "title": "Compétences Personnelles",
+      "teamSpirit": "Esprit d'équipe",
+      "adaptability": "Adaptabilité",
+      "timeManagement": "Gestion du temps"
+    }
+  }
+}
